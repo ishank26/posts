@@ -1,2 +1,2 @@
 # posts
-resources, thoughts and notes
+resources, thoughts, notes
